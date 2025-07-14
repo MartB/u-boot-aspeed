@@ -681,6 +681,7 @@ dtb-$(CONFIG_ARCH_ASPEED) += \
 	ast2500-evb.dtb \
 	ast2500-genesis3.dtb \
 	ast2500-romulus.dtb \
+	ast2500-s8030.dtb \
 	ast2600-ampere.dtb \
 	ast2600-bletchley.dtb \
 	ast2600-dcscm.dtb \
